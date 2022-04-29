@@ -31,8 +31,7 @@
 
 <img align="left" src="https://camo.githubusercontent.com/814236222dd83bb5aa7e82c7ce62655fedf66eea59539f96c66f78532329be22/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6669676d612d323239363037312d313931323033302e706e67" width="60" height="65"/>
 
-<br/><br/><br/><br/><br/><br/>
-
+<br/><br/><br/><br/><br/><br/><br/>
 ## goals:
 
 - Mini projects
